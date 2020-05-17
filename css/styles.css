@@ -1,0 +1,253 @@
+body {
+  background-color: #EFFED6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Mallanna', sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin: 0;
+  display: block;
+}
+
+p {
+  font-size: 1.4rem;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.smile1 {
+  display: inline-block;
+}
+
+.smile2 {
+  display: inline-block;
+  position: relative;
+  left: -47px;
+  top: -14px;
+}
+
+.smile {
+  display: inline-block;
+  position: relative;
+  left: -20px;
+  top: -40px;
+}
+
+.logo-container {
+  position: absolute;
+  top: 35%;
+  left: 38%;
+}
+
+/*class selectors*/
+.top-container {
+  margin: 0;
+  padding: 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.toy1 {
+  position: absolute;
+  left: 20%;
+  top: 10%;
+  width: 150px;
+  height: 150px;
+}
+
+.toy2 {
+  position: absolute;
+  right: 20%;
+  bottom: 10%;
+  width: 330px;
+  height: 270px;
+}
+
+.toy3 {
+  position: absolute;
+  right: 2%;
+  top: 2%;
+  width: 430px;
+  height: 300px;
+}
+
+.toy4 {
+  position: absolute;
+  left: -8%;
+  top: 30%;
+  width: 200px;
+  height: 200px;
+}
+
+.toy4:hover {
+  position: absolute;
+  left: -5%;
+  top: 25%;
+  width: 200px;
+  height: 200px;
+}
+
+.toy5 {
+  position: absolute;
+  left: 5%;
+  bottom: 16%;
+  width: 420px;
+  height: 210px;
+}
+
+.container-2 {
+  margin: 0;
+  position: absolute;
+  top: 110%;
+}
+
+.text-1 {
+  display: inline-block;
+  text-align: left;
+  width: 500px;
+}
+
+.container-images {
+  display: inline-block;
+}
+
+.shape1 {
+  width: 300px;
+  position: absolute;
+  left: 160%;
+  top: 40%;
+}
+
+.shape2 {
+  width: 300px;
+  position: absolute;
+  left: 110%;
+  top: 53%;
+}
+
+.image-shape-1 {
+  width: 270px;
+  height: 344px;
+  position: absolute;
+  left: 162%;
+  top: 44%;
+}
+
+.image-shape-2 {
+  width: 270px;
+  position: absolute;
+  left: 112%;
+  top: 55%;
+}
+
+.scissors {
+  width: 300px;
+  height: 240px;
+  position: absolute;
+  left: 150%;
+  top: -5%;
+}
+
+.poms {
+  width: 150px;
+  height: 148px;
+  position: absolute;
+  left: 122%;
+  top: 22%;
+}
+
+.text {
+  width: 600px;
+  display: inline-block;
+  padding-left: 140px;
+}
+
+.button {
+  background-color: none;
+  border: dashed;
+  border-width: 2px;
+  background-color: #EFFED6;
+  padding: 14px 70px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  left: 190px;
+  top: 600px;
+  font-family: 'Mallanna', sans-serif;
+  font-size: 1.2rem;
+}
+
+.button:hover {
+  background-color: none;
+  border: dashed;
+  border-width: 2px;
+  background-color: #EFFED6;
+  padding: 14px 70px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  left: 200px;
+  top: 590px;
+  font-family: 'Mallanna', sans-serif;
+  font-size: 1.2rem;
+  box-shadow: 1px 1px 2px white, 0 0 35px rgb(230, 109, 245), 0 0 5px white;
+}
+
+.container-3 {
+  position: relative;
+  margin-top: 110%;
+  max-width: 1280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centered-h1 {
+  text-align: center;
+}
+
+.get-in-touch {
+  display: inline-block;
+  width: 300px;
+  height: 664px;
+  text-align: center;
+  margin: 0 50px;
+}
+
+.concept {
+  display: inline-block;
+  width: 300px;
+  height: 664px;
+  text-align: center;
+  margin: 0 50px;
+}
+
+.play {
+  display: inline-block;
+  width: 300px;
+  height: 664px;
+  text-align: center;
+  margin: 0 50px;
+}
+
+.container-3-image {
+  width: 240px;
+  height: 280px;
+  margin: 0;
+}
